@@ -4,9 +4,8 @@ membaca papan jalan yang bertuliskan Privet Drive—bukan, bukan membaca melaink
 memandang papan jalan itu, kucing itu tidak bisa membaca peta atau papan jalan. Mr Dursley
 menggelengkan kepalanya dan mencoba melupakan kucing itu.
 
-<<<<<<< HEAD
-Mr Dursley selalu duduk membelakangi jendela di kantornya di lantai sembilan. Jika  tidak, mungkin sulit baginya untuk berkonsentrasi pada bor pagi itu. Dia tidak melihat  burungburung hantu terbang berseliweran di siang hari, meskipun orang-orang lain di jalan  melihatnya. Orang-orang itu melongo dan menunjuk-nunjuk ketika burung-burung hantu tak  putus-putusnya beterbangan Sebagian besar dari mereka belum pernah melihat burung  hantu, di malam hari sekalipun. Tetapi Mr Dursley melewatkan pagi yang normal, tanpa  gangguan burung hantu. Dia berteriak pada lima orang yang berbeda. Dia melakukan  beberapa pembicaraan telepon penting dan berteriak beberapa kali lagi. Hatinya sedang  senang, sampai waktu makan siang, ketika dia memutuskan akan melemaskan kaki dan  berjalan ke toko kue di seberang jalan. 
-=======
+
+Mr Dursley selalu duduk membelakangi jendela di kantornya di lantai sembilan. Jika  tidak, mungkin sulit baginya untuk berkonsentrasi pada bor pagi itu. Dia tidak melihat  burungburung hantu terbang berseliweran di siang hari, meskipun orang-orang lain di jalan  melihatnya. Orang-orang itu melongo dan menunjuk-nunjuk ketika burung-burung hantu tak  putus-putusnya beterbangan Sebagian besar dari mereka belum pernah melihat burung  hantu, di malam hari sekalipun. Tetapi Mr Dursley melewatkan pagi yang normal, tanpa  gangguan burung hantu. Dia berteriak pada lima orang yang berbeda. Dia melakukan  beberapa pembicaraan telepon penting dan berteriak beberapa kali lagi. Hatinya sedang  senang, sampai waktu makan siang, ketika dia memutuskan akan melemaskan kaki dan  berjalan ke toko kue di seberang jalan
 Selama mengendarai mobilnya ke kota, yang dipikirkannya hanyalah pesanan bor
 dalam jumlah besar yang akan didapatnya hari itu.
 
@@ -23,8 +22,6 @@ kemudian terlintas di benaknya bahwa mereka mungkin sengaja berdandan seperti
 itu—mereka pastilah sedang mengumpulkan dana entah untuk apa—ya, pasti begitu.
 Kendaraan-kendaraan mulai bergerak, dan beberapa menit kemudian Mr Dursley tiba di
 tempat parkir Grunnings, pikirannya kembali dipenuhi bor.
-
->>>>>>> 46b8604e681362019969056b28f1104f885e4763
 
 Mr Dursley selalu duduk membelakangi jendela di kantornya di lantai sembilan. Jika
 tidak, mungkin sulit baginya untuk berkonsentrasi pada bor pagi itu. Dia tidak melihat
